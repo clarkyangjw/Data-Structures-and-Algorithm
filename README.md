@@ -1,2 +1,2 @@
-# Data-Structures-and-Algorithm
+# Data-Structures
 For study Java
